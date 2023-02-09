@@ -1,0 +1,17 @@
+
+.Board {
+  margin: 0 auto;
+  z-index: 1;
+  position: relative;
+  padding: 5vw;
+}
+
+table caption {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-size: 2.5em;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 5px 5px #558ABB;
+}
+
+
